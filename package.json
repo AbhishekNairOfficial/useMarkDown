@@ -1,5 +1,5 @@
 {
-	"name": "use-markdown",
+	"name": "@abhisheknairofficial/use-markdown",
 	"version": "1.0.0",
 	"description": "A simple React Hook which lets you use MD files in a React application",
 	"main": "index.js",

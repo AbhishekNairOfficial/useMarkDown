@@ -8,13 +8,13 @@ This is built using **React Markdown**, and I have just made a separate one for 
 Installation is straight-forward. Use either npm or yarn.
 
 ```zsh
-npm i use-markdown
+npm i @abhisheknairofficial/use-markdown
 ```
 
 or
 
 ```zsh
-yarn add use-markdown
+yarn add @abhisheknairofficial/use-markdown
 ```
 
 ## Usage
@@ -22,7 +22,7 @@ yarn add use-markdown
 1. Import into your file as follows:
 
 ```js
-import useMarkDown from 'use-markdown'
+import useMarkDown from '@abhisheknairofficial/use-markdown'
 ```
 
 2. Import your MD file similarly
