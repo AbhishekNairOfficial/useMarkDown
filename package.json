@@ -1,26 +1,32 @@
 {
-  "name": "use-markdown",
-  "version": "1.0.0",
-  "description": "A simple React Hook which lets you use MD files in a React application",
-  "main": "index.js",
-  "scripts": {
-    "test": "test"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/abhisheknairofficial/useMarkDown.git"
-  },
-  "keywords": [
-    "react",
-    "hooks",
-    "markdown",
-    "react",
-    "markdown"
-  ],
-  "author": "abhisheknr4@gmail.com",
-  "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/abhisheknairofficial/useMarkDown/issues"
-  },
-  "homepage": "https://github.com/abhisheknairofficial/useMarkDown#readme"
+	"name": "use-markdown",
+	"version": "1.0.0",
+	"description": "A simple React Hook which lets you use MD files in a React application",
+	"main": "index.js",
+	"scripts": {
+		"test": "test"
+	},
+	"dependencies": {
+		"react-markdown": "^4.3.1"
+	},
+	"peerDependencies": {
+		"react": "^16.8.0"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/abhisheknairofficial/useMarkDown.git"
+	},
+	"keywords": [
+		"react",
+		"hooks",
+		"markdown",
+		"react",
+		"markdown"
+	],
+	"author": "abhisheknr4@gmail.com",
+	"license": "MIT",
+	"bugs": {
+		"url": "https://github.com/abhisheknairofficial/useMarkDown/issues"
+	},
+	"homepage": "https://github.com/abhisheknairofficial/useMarkDown#readme"
 }
